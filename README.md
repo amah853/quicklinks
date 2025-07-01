@@ -1,2 +1,2 @@
-(Google)[google.com]
-(Chrome Remote Desktop)[remotedesktop.google.com]
+[Google](https://google.com)  
+[Chrome Remote Desktop](https://remotedesktop.google.com)
