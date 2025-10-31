@@ -6,4 +6,4 @@
    
 [sb](https://test.stagereader.ahmad-mahrous.com/sb.html) 
 
-[Parsec](https://dash.parsec.app/login)
+[Parsec](https://web.parsec.app)
