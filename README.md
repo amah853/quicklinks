@@ -11,3 +11,5 @@
 [Roblox](https://web.cloudmoonapp.com/game/com.roblox.client/)
 
 [TeamViewer](https://www.teamviewer.com)
+
+[Calculator](https://www.ahmad-mahrous.com/other/calculator)
