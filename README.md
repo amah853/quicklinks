@@ -1,6 +1,8 @@
 [Google](https://google.com)  
   
 [Chrome Remote Desktop](https://remotedesktop.google.com)
+
+[Chrome Remote Desktop IP](https://142.250.190.78/)
    
 [Rammerhead](https://nana.rammer.saahee.cn/)
    
