@@ -20,4 +20,4 @@
 
 [Stafflyt Beta](https://beta.stafflyt.com)
 
-[Supabase](supabase.com)
+[Supabase](https://www.supabase.com)
