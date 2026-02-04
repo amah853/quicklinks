@@ -15,3 +15,7 @@
 [TeamViewer](https://www.teamviewer.com)
 
 [Calculator](https://www.ahmad-mahrous.com/other/calculator)
+
+[Stafflyt](https://stafflyt.com)
+
+[Stafflyt Beta](https://beta.stafflyt.com)
