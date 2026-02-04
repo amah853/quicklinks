@@ -19,3 +19,5 @@
 [Stafflyt](https://stafflyt.com)
 
 [Stafflyt Beta](https://beta.stafflyt.com)
+
+[Supabase](supabase.com)
