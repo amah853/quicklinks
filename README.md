@@ -21,3 +21,5 @@
 [Stafflyt Beta](https://beta.stafflyt.com)
 
 [Supabase](https://www.supabase.com)
+
+[Slack](https:/ahmadmahrous.slack.com)
