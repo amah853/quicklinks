@@ -22,4 +22,4 @@
 
 [Supabase](https://www.supabase.com)
 
-[Slack](https:/ahmadmahrous.slack.com)
+[Slack](https://ahmadmahrous.slack.com)
