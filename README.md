@@ -23,3 +23,5 @@
 [Supabase](https://www.supabase.com)
 
 [Slack](https://ahmadmahrous.slack.com)
+
+[wikirace](https://wiki-race.com)
