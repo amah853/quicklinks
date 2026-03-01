@@ -25,3 +25,5 @@
 [Slack](https://ahmadmahrous.slack.com)
 
 [wikirace](https://wiki-race.com)
+
+[gforce now](https://play.geforcenow.com)
