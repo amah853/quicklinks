@@ -34,12 +34,10 @@
 
 [turso](https://app.turso.tech)
 
-
+[xbox for da goat 🥹](http://xbox.com/en-us/play)
 
 
 
 
 
 [bikes](https://fullsusmtb.org)
-
-[ampd](https://bit.ly/OPRFArabAmericanPros)
